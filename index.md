@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 Here's an example of using the code format
+
 ```markdown {python}
 greeting = "Hello World!"
 print(greeting)
