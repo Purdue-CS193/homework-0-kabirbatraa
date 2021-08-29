@@ -1,3 +1,11 @@
+# Kabir Batra's First CS193 Homework
+- CS 193 exists
+- It's a cool class because I can maybe get help with something
+- Lots of bay area kids lol :D
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
